@@ -15,34 +15,34 @@
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
+- Festival name: la united
+- Location: Manchester
 - Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Theme: Red
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   local repository on my computer.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   both
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Transit
+- Entrance or meeting location: Main entrance 
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. we have heelchair accessible entrances for visitors.
+2. Accessible restrooms are available near the main entrance
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+keep personal belongings secure, watch out for them
 
 ## GitHub Verification
 
