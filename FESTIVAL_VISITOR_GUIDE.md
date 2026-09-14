@@ -61,15 +61,15 @@ This sentence was added on GitHub.
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   The difference is that saving a file stores the chnages in the wokring directory while commiting it recoreds the staged that were changed 
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+  git diff shows unstaged changes while the other one does
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The github verification was made on github
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
@@ -77,5 +77,5 @@ This sentence was added on GitHub.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   git status shows everything is up to date
 
