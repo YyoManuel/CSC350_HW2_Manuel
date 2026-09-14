@@ -54,7 +54,7 @@ This sentence was added on GitHub.
 |---|---|---|
 | Personalized guide | c3e879b | `docs: personalize festival visitor guide` |
 | Visitor access information | 7e3e45 | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| GitHub verification | dda6fd6 | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
