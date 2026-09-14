@@ -46,14 +46,14 @@ keep personal belongings secure, watch out for them
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+This sentence was added on GitHub.
 
 ## Commit Evidence
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
+| Personalized guide | c3e879b | `docs: personalize festival visitor guide` |
+| Visitor access information | 7e3e45 | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
