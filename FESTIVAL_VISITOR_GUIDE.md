@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Manuel Salas
+- Course and section: CSC 350 1300[25081]
+- Date: 09/14/26
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
+- Current branch: Main
 - Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Starting `git status`: On branch main; untracked `.DS_Store`; nothing added to commit
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
